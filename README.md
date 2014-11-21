@@ -1,4 +1,4 @@
 odt_to_html_converter
 =====================
 
-Scipt in python to convert file from .odt to .html
+extract Image base64 from html file and save a html file with a link to image saved in directory "images"
